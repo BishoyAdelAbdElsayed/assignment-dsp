@@ -20,8 +20,8 @@ diag([1 2 3 4])
 eye(5)
 
 #3
-[2,3]
-[2;3] %% Error
+[A,B]
+[A;B] %% Error
 
 #4
 zeros(7,8)
